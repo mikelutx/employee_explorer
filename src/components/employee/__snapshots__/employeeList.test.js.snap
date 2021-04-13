@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing employee list 1`] = `
+"<div class=\\"row\\">
+  <div class=\\"col-sm-6 col-md-4 col-lg-3 mb-3\\">
+    <div class=\\"card\\">
+      <div class=\\"card-body\\">
+        <h5 class=\\"card-title\\">John Hartman</h5>
+        <h6 class=\\"card-subtitle mb-2 text-muted\\">CEO</h6>
+        <p>2 subordinate(s)</p><a href=\\"/\\" class=\\"btn btn-primary\\">View</a>
+      </div>
+    </div>
+  </div>
+  <div class=\\"col-sm-6 col-md-4 col-lg-3 mb-3\\">
+    <div class=\\"card\\">
+      <div class=\\"card-body\\">
+        <h5 class=\\"card-title\\">Samad Pitt</h5>
+        <h6 class=\\"card-subtitle mb-2 text-muted\\">production supervisor</h6>
+        <p>2 subordinate(s)</p><a href=\\"/\\" class=\\"btn btn-primary\\">View</a>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
